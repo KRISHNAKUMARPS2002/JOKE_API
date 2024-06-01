@@ -3,6 +3,9 @@
 ## Description
 JOKE_API is an Express.js application that provides endpoints to manage jokes. Users can perform CRUD operations (Create, Read, Update, Delete) on jokes through HTTP requests.
 
+## API deploy link :
+`https://appsail-50019631012.development.catalystappsail.in`
+
 ## Installation
 1. Clone the repository: `git clone https://github.com/KRISHNAKUMARPS2002/JOKE_API.git`
 2. Navigate to the project directory: `cd JOKE_API`
